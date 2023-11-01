@@ -1,6 +1,9 @@
 # Table of contents
 
 * [테스트용 페이지](README.md)
+  * [대카](README/undefined/README.md)
+    * [중카](README/undefined/undefined/README.md)
+      * [쏘카](README/undefined/undefined/undefined.md)
 * [👋 Welcome to A Product](<README (1).md>)
 
 ## Overview
@@ -23,9 +26,3 @@
 
 * [🎨 For Designers](use-cases/for-designers.md)
 * [🖥 For Developers](use-cases/for-developers.md)
-
-***
-
-* [대카](undefined/README.md)
-  * [중카](undefined/undefined/README.md)
-    * [쏘카](undefined/undefined/undefined.md)
