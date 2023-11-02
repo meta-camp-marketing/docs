@@ -13,7 +13,9 @@ layout:
     visible: true
 ---
 
-# 회원가입하기
+# 회원가입 및 로그인 안내
+
+## 회원가입하기
 
 {% hint style="info" %}
 14세 미만 회원가입자는 내국인만 가입이 가능하며, 보호자동의 인증 절차를 필수로 진행해 주셔야 합니다
@@ -54,3 +56,14 @@ layout:
 
 <table><thead><tr><th width="95" align="center">구분</th><th width="119" align="center">행성가입여부</th><th width="147" align="center">메타비티 참여여부</th><th width="153" align="center">메타비티 생성여부</th><th align="center">네스트 사용</th><th align="center">개인 저장소</th></tr></thead><tbody><tr><td align="center">회원</td><td align="center">가능</td><td align="center"><p>공개, 비공개,</p><p>행성공개 가능</p></td><td align="center"><p>행성멤버일 때</p><p>동호회 가능</p></td><td align="center">가능</td><td align="center"><p>큐시트, 폴더</p><p>생성 가능</p></td></tr><tr><td align="center">비회원</td><td align="center">불가</td><td align="center">공개행성만 가능</td><td align="center">불가능</td><td align="center">가능</td><td align="center"><p>스냅샷만 </p><p>저장 가능</p></td></tr></tbody></table>
 
+
+
+***
+
+
+
+## 로그인하기
+
+{% hint style="info" %}
+비밀번호를 5회 이상 틀리신 경우, 일정시간 로그인이 제한됩니다
+{% endhint %}
