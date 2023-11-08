@@ -6,7 +6,7 @@
   * [회원가입 및 로그인 안내](undefined/undefined.md)
   * [회원탈퇴 하기](undefined/undefined-2.md)
 * [💻 작동법](undefined-1.md)
-* [📝 기능소개](undefined-2/README.md)
+* [📝 ぁぃ](undefined-2/README.md)
   * [사용자 설정](undefined-2/undefined/README.md)
     * [내정보](undefined-2/undefined/undefined.md)
     * [아바타변경](undefined-2/undefined/undefined-1.md)
