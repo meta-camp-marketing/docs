@@ -27,7 +27,7 @@ layout:
 
 
 
-
+{% embed url="https://youtu.be/WJ9BhhcC38c" %}
 
 ### 1.약관 동의하기
 
