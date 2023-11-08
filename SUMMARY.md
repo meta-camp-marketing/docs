@@ -60,7 +60,7 @@
       * [강좌, 강의 수정하기](undefined-2/lms/lms-1/undefined-2.md)
       * [강의, 강좌 제거하기](undefined-2/lms/lms-1/undefined-3.md)
 * [⚙ 환경설정](undefined-3.md)
-* [🙋♀ FAQ](f-aq.md)
+* [🙋♀ FAQ](faq.md)
 * [테스트용 페이지](<README (1).md>)
   * [대카](README/undefined/README.md)
     * [중카](README/undefined/undefined/README.md)
