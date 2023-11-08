@@ -54,7 +54,7 @@ layout:
 
 ## 회원과 비회원의 차이점을 알아보세요
 
-<table><thead><tr><th width="89" align="center">구분</th><th width="112" align="center">행성가입</th><th width="147" align="center">메타비티 참여</th><th width="147" align="center">메타비티 생성</th><th width="100" align="center">네스트 사용</th><th align="center">개인 저장소</th></tr></thead><tbody><tr><td align="center">회원</td><td align="center">가능</td><td align="center"><p>공개, 비공개,</p><p>행성공개 가능</p></td><td align="center"><p>행성멤버일 때</p><p>동호회 가능</p></td><td align="center">가능</td><td align="center"><p>큐시트, 폴더</p><p>생성 가능</p></td></tr><tr><td align="center">비회원</td><td align="center">불가</td><td align="center">공개행성만 가능</td><td align="center">불가능</td><td align="center">가능</td><td align="center"><p>스냅샷만 </p><p>저장 가능</p></td></tr></tbody></table>
+<table><thead><tr><th width="89" align="center">구분</th><th width="112" align="center">행성가입</th><th width="147" align="center">메타비티 참여</th><th width="147" align="center">메타비티 생성</th><th align="center">네스트 사용</th><th align="center">개인 저장소</th></tr></thead><tbody><tr><td align="center">회원</td><td align="center">가능</td><td align="center"><p>공개, 비공개,</p><p>행성공개 가능</p></td><td align="center"><p>행성멤버일 때</p><p>동호회 가능</p></td><td align="center">가능</td><td align="center"><p>큐시트, 폴더</p><p>생성 가능</p></td></tr><tr><td align="center">비회원</td><td align="center">불가</td><td align="center">공개행성만 가능</td><td align="center">불가능</td><td align="center">가능</td><td align="center"><p>스냅샷만 </p><p>저장 가능</p></td></tr></tbody></table>
 
 
 
