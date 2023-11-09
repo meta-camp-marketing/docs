@@ -1,5 +1,6 @@
 ---
 description: 3D 가상공간 커뮤니티 THERE를 소개합니다
+cover: .gitbook/assets/shutterstock_1042736410.jpg
 coverY: 0
 layout:
   cover:
