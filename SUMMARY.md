@@ -3,7 +3,7 @@
 * [🌌 플랫폼 THERE 소개](README.md)
   * [명칭 소개](there/undefined.md)
   * [설치하기](readme/undefined-1.md)
-  * [조작법](readme/undefined-1-1.md)
+  * [조작법](there/undefined-1.md)
 * [📦 회원가입 및 로그인](<README (2).md>)
   * [회원가입 및 로그인 안내](undefined/undefined.md)
   * [회원탈퇴 하기](undefined/undefined-2.md)
