@@ -30,7 +30,7 @@ description: THERE의 개인공간 네스트 입니다 소규모로 친구나 �
 6. 방명록 : 해당 네스트에서 방명록을 남길 수 있습니다&#x20;
 7. 스냅샷 : 현재 사용자가 보고 있는 화면을 캡쳐하여 저장 할 수 있습니다&#x20;
 
-<figure><img src="../.gitbook/assets/스크린샷-2023-11-10-오후-6.15.27 (1).png" alt=""><figcaption><p>0 : 타이머를 설정 할 수 있습니다 ( 0, 3, 5초)        카메라 : 촬영 버튼         눈 : UI를  점ㅕ </p></figcaption></figure>
+<figure><img src="../.gitbook/assets/스크린샷-2023-11-10-오후-6.15.27 (1).png" alt=""><figcaption><p>0 : 타이머를 설정 할 수 있습니다 ( 0, 3, 5초)        카메라 : 촬영 버튼         눈 : UI 점멸 버튼         X : 스냅샷 끄기 버튼</p></figcaption></figure>
 
 &#x20;
 
