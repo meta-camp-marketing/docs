@@ -17,10 +17,6 @@ description: THERE 설치기준에 대해 안내드립니다
 
 ## PC디바이스 권장사항
 
-| Column 1 | Column 2 | Column 3 | Column 4 |
-| -------- | :------: | -------- | -------- |
-| No span  | Span across three columns    |||
-
 <table>
   <thead>
     <tr>
