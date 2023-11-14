@@ -38,17 +38,17 @@ description: THERE 설치기준에 대해 안내드립니다
     </tr>
     <tr>
       <td>GPU</td>
-      <td></td>
+      <td colspan="2"></td>
       <td></td>
     </tr>
     <tr>
       <td>RAM</td>
-      <td></td>
+      <td colspan="2" ></td>
       <td></td>
     </tr>
     <tr>
       <td>Storage</td>
-      <td></td>
+      <td colspan="2"></td>
       <td></td>
     </tr>
   </tbody>
