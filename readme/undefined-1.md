@@ -38,18 +38,15 @@ description: THERE 설치기준에 대해 안내드립니다
     </tr>
     <tr>
       <td>GPU</td>
-      <td colspan="2"></td>
-      <td>NVIDIA® GeForce® GTX 1030 혹은 AMD RX 550 이상	</td>
+      <td colspan="2">NVIDIA® GeForce® GTX 1030 혹은 AMD RX 550 이상	</td>
     </tr>
     <tr>
       <td>RAM</td>
       <td colspan="2" >8GB</td>
-      <td></td>
     </tr>
     <tr>
       <td>Storage</td>
       <td colspan="2">6GB의 하드디스크 여유공간</td>
-      <td></td>
     </tr>
   </tbody>
 </table>
