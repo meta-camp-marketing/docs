@@ -42,7 +42,7 @@ description: THERE 설치기준에 대해 안내드립니다
     </tr>
     <tr>
       <td>RAM</td>
-      <td colspan="2" >8GB 이상</td>
+      <td colspan="2" >8GB</td>
     </tr>
     <tr>
       <td>Storage</td>
