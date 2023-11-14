@@ -19,7 +19,7 @@ description: THERE 설치기준에 대해 안내드립니다
 
 <table><thead><tr><th width="116">Program</th><th>Window</th><th>Mac</th></tr></thead><tbody><tr><td>OS</td><td>윈도우® 10 64-bit</td><td>macOS® 10.13 above</td></tr><tr><td>CPU</td><td>Intel Core i5-11세대 또는 AMD Ryzen 5 이상</td><td>인텔® Core™ i5 또는 Apple M1 이상</td></tr><tr><td>GPU</td><td></td><td></td></tr><tr><td>RAM</td><td></td><td></td></tr><tr><td>Storage</td><td></td><td></td></tr></tbody></table>
 
-## 모바일 권장사항
+## 모바일 권장&#x20;
 
 디바이스 : iPhone 7이상, iPad 6세대 이상, GalaxyS8 이상&#x20;
 
