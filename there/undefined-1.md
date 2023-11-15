@@ -18,9 +18,11 @@ description: THERE 조작하는 방법 알려드립니다
 
 점프하기 : 스페이스바
 
+앉기 : X키
+
 ## Moblie l Tablet 조작하는 방법&#x20;
 
-<figure><img src="../.gitbook/assets/IMG_1190.PNG" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/IMG_1280.png" alt=""><figcaption></figcaption></figure>
 
 이동키 1 : 왼쪽 화면으로 터치 드래그 시, 원하는 방향으로 이동
 
@@ -29,4 +31,6 @@ description: THERE 조작하는 방법 알려드립니다
 시점 확대 : 전 화면에서 두 손가락으로 터치 후, 확대 및 축소 가능
 
 점프하기 : 오른쪽 점프버튼
+
+앉기 : 오른쪽 앉기 버튼&#x20;
 
