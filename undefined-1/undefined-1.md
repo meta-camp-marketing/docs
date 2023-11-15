@@ -6,8 +6,8 @@ description: THERE의 개인공간 네스트 입니다 소규모로 친구나 �
 
 <figure><img src="../.gitbook/assets/IMG_1194.png" alt=""><figcaption></figcaption></figure>
 
-1. 오른쪽 상단 메튜 버튼을 누른다&#x20;
-2. 메뉴의 왼쪽 상단 Nest 버튼을 누른다&#x20;
+1. 오른쪽 상단 메튜 버튼을 눌러주세요
+2. 메뉴의 왼쪽 상단 Nest 버튼을 눌러주세요
 
 ## 네스트 기능 사용하기
 
