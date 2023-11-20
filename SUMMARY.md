@@ -27,6 +27,7 @@
           * [행성 내 배너 만들기](undefined-1/undefined-4/undefined-1/undefined-1/undefined-1/undefined-1.md)
         * [행성 시스템설정](undefined-1/undefined-4/undefined-1/undefined-1/undefined-2/README.md)
           * [행성 정보 설정](undefined-1/undefined-4/undefined-1/undefined-1/undefined-2/undefined-1.md)
+          * [행성 가입 관리](undefined-1/undefined-4/undefined-1/undefined-1/undefined-2/undefined.md)
           * [행성 멤버관리](undefined-1/undefined-4/undefined-1/undefined-1/undefined-2/undefined-2.md)
       * [행사관리](undefined-1/undefined-4/undefined-1/undefined-2.md)
       * [행성 수정하기](undefined-1/undefined-4/undefined-1/undefined-3.md)

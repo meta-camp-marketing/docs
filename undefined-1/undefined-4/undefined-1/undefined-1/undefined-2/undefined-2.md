@@ -4,42 +4,6 @@ description: 행성 가입 멤버와 행성 운영자를 설정할 수 있습니
 
 # 행성 멤버관리
 
-## 행성가입 멤버 관리
-
-<figure><img src="../../../../../.gitbook/assets/스크린샷 2023-11-20 오후 8.33.58.png" alt=""><figcaption></figcaption></figure>
-
-1. <mark style="color:blue;">**메뉴버튼**</mark>을 눌러주세요
-2. <mark style="color:blue;">**행성관리 버튼**</mark>을 눌러주세요
-3. 왼쪽 <mark style="color:blue;">**멤버관리**</mark> 탭을 눌러주세요
-4. 멤버 목록이 뜹니다&#x20;
-
-### 행성 멤버 탈퇴 관리
-
-1. 멤버 관리 목록에 있는 <mark style="color:blue;">**해당 탈퇴 멤버를 선택**</mark>합니다.
-2. 해당 멤버 정보가 뜹니다&#x20;
-3. 최 하단의 <mark style="color:blue;">**멤버 강제 탈퇴 버튼**</mark>을 눌러주세요
-
-## 행성 가입 신청자 관리&#x20;
-
-### 수동승인관리
-
-<figure><img src="../../../../../.gitbook/assets/스크린샷 2023-11-20 오후 8.41.33.png" alt=""><figcaption></figcaption></figure>
-
-1. <mark style="color:blue;">**신청자관리**</mark> 탭을 눌러주세요
-2. 신청자 목록이 뜹니다&#x20;
-3. 해당 신청자 아이디를 눌러 가입거절/ 가입승인 버튼을 눌러주세요
-
-### 자동승인관리
-
-<figure><img src="../../../../../.gitbook/assets/스크린샷 2023-11-20 오후 8.47.10.png" alt=""><figcaption></figcaption></figure>
-
-1. <mark style="color:blue;">**신청자관리**</mark> 탭을 눌러주세요
-2. ~~자동승인 관리~~ 탭을 눌러주세요
-3. 신청자 목록이 뜹니다&#x20;
-4. 해당 신청자 아이디를 눌러 가입거절/ 가입승인 버튼을 눌러주세요
-
-
-
 ## 멤버등급 설정하기
 
 1. <mark style="color:blue;">**메뉴버튼**</mark>을 눌러주세요
@@ -63,5 +27,5 @@ description: 행성 가입 멤버와 행성 운영자를 설정할 수 있습니
 
 <figure><img src="../../../../../.gitbook/assets/스크린샷 2023-11-20 오후 8.13.03.png" alt=""><figcaption></figcaption></figure>
 
-<table><thead><tr><th width="126">항목</th><th>행성관리자</th><th>보조관리자</th><th>오퍼레이터</th><th>일반멤버</th></tr></thead><tbody><tr><td>권한</td><td>전체관리가능</td><td>행성관리, 행성꾸미기 <strong>불가</strong></td><td>행성관리, 메타비티 권한 편집, 가입설정, 히스토리, 행성꾸미기 <strong>불가</strong></td><td><strong>전체 불가</strong></td></tr><tr><td>설정자</td><td>메타캠프</td><td>행성관리자</td><td>행성관리자</td><td>행성관리자</td></tr><tr><td><p>메타비티</p><p>생성</p></td><td>유료가능<br>무료가능</td><td><p>유료가능</p><p>무료가능</p><p>설정기능 가능</p></td><td>유료<strong>불가</strong></td><td><p>유료<strong>불가</strong></p><p>무료가능</p></td></tr></tbody></table>
+<table><thead><tr><th width="126">항목</th><th width="100">행성관리자</th><th width="145">보조관리자</th><th>오퍼레이터</th><th>일반멤버</th></tr></thead><tbody><tr><td>권한</td><td>전체관리가능</td><td>행성관리, 행성꾸미기 <strong>불가</strong></td><td>행성관리, 메타비티 권한 편집, 가입설정, 히스토리, 행성꾸미기 <strong>불가</strong></td><td><strong>전체 불가</strong></td></tr><tr><td>설정자</td><td>메타캠프</td><td>행성관리자</td><td>행성관리자</td><td>행성관리자</td></tr><tr><td><p>메타비티</p><p>생성</p></td><td>유료가능<br>무료가능</td><td><p>유료가능</p><p>무료가능</p><p>설정기능 가능</p></td><td>유료<strong>불가</strong></td><td><p>유료<strong>불가</strong></p><p>무료가능</p></td></tr></tbody></table>
 
