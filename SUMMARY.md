@@ -19,7 +19,6 @@
       * [행성 가입하기](undefined-1/undefined-4/undefined/undefined.md)
       * [행성 탈퇴하기](undefined-1/undefined-4/undefined/undefined-1.md)
     * [행성 운영안내](undefined-1/undefined-4/undefined-1/README.md)
-      * [행성만들기](undefined-1/undefined-4/undefined-1/undefined.md)
       * [행성 설정](undefined-1/undefined-4/undefined-1/undefined-1/README.md)
         * [행성 외부 디자인 관리](undefined-1/undefined-4/undefined-1/undefined-1/undefined.md)
         * [행성 내부 디자인 관리](undefined-1/undefined-4/undefined-1/undefined-1/undefined-1/README.md)
