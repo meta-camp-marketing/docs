@@ -31,7 +31,12 @@ description: 행성 가입 멤버와 행성 운영자를 설정할 수 있습니
 
 ### 자동승인관리
 
+<figure><img src="../../../../../.gitbook/assets/스크린샷 2023-11-20 오후 8.47.10.png" alt=""><figcaption></figcaption></figure>
 
+1. <mark style="color:blue;">**신청자관리**</mark> 탭을 눌러주세요
+2. ~~자동승인 관리~~ 탭을 눌러주세요
+3. 신청자 목록이 뜹니다&#x20;
+4. 해당 신청자 아이디를 눌러 가입거절/ 가입승인 버튼을 눌러주세요
 
 
 
