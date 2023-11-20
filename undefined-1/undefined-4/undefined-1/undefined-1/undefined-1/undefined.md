@@ -1,2 +1,22 @@
+---
+description: 내부의 건물 및 피스와 베너를 설정 할 수 있습니다
+---
+
 # 행성 내부 꾸미기
+
+
+
+{% hint style="info" %}
+테스트 플레이 버튼을 누르면, 플레이 화면을 시뮬레이션 해 볼 수 있습니다&#x20;
+{% endhint %}
+
+<figure><img src="../../../../../.gitbook/assets/스크린샷-2023-11-20-오후-9.33.02.png" alt=""><figcaption></figcaption></figure>
+
+&#x20;
+
+1. <mark style="color:blue;">**변경하고자 하는 항목**</mark>을 눌러주세요
+2. 리스트중 <mark style="color:blue;">**변경 하고싶은 테마**</mark>를 눌러주세요&#x20;
+3. <mark style="color:blue;">**저장 후 종료 버튼**</mark>을 눌러주세요  ( 원하는 항목 만 변경 할 수 있고, 모든 항목을 변경 후 저장 후 종료를 한번에 누르시면 변경사항이 한번에 적용됩니다 )
+
+
 
