@@ -23,16 +23,24 @@ description: 행성 진입 후, 오른쪽 상단 메뉴를 누르시면 원하�
 
 ## 아바타변경
 
+
+
+<figure><img src="../.gitbook/assets/스크린샷-2023-11-10-오후-6.15.27.png" alt=""><figcaption></figcaption></figure>
+
 <figure><img src="../.gitbook/assets/스크린샷-2023-11-10-오후-3.52.19.png" alt=""><figcaption></figcaption></figure>
 
-1. 원하는 아바타를 선택합니다
-2. 아바타 변경버튼을 꼭 눌러주세요
+1. 메뉴에서 아바타 변경 선택해주세요
+2. 원하는 아바타를 선택합니다
+3. 아바타 변경버튼을 꼭 눌러주세요
 
 ## 팔로우 리스트 관리
 
+
+
+<figure><img src="../.gitbook/assets/스크린샷-2023-11-10-오후-6.15.28.png" alt=""><figcaption></figcaption></figure>
+
 <figure><img src="../.gitbook/assets/스크린샷 2023-11-10 오후 4.47.27 (2).png" alt=""><figcaption></figcaption></figure>
 
-친구를 추가하고, 그룹화 하여 관리할 수 있습니다&#x20;
-
-친구와 귓속말을 하고 내가 있는 공간으로 초대할 수도 있습니다&#x20;
+1. 메뉴 > 팔로우 리스트 버튼을 눌러주세요&#x20;
+2. 친구를 추가하고, 그룹화 하여 관리할 수 있으며 귓속말을 전달하고 내가 있는 공간으로 초대할 수도 있습니다&#x20;
 
