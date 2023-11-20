@@ -1,6 +1,30 @@
 ---
-description: 리
+description: 각 행성내의 행사를 관리 할 수 있습니다
 ---
 
 # 행사관리
+
+<figure><img src="../../../.gitbook/assets/스크린샷-2023-11-10-오후-6.15.27 (2).png" alt=""><figcaption></figcaption></figure>
+
+1. 오른쪽 상단 <mark style="color:blue;">**메뉴버튼**</mark>을 눌러주세요
+2. <mark style="color:blue;">**행사 안내**</mark>버튼을 눌러주세요&#x20;
+
+## 행사등록하기 및 수정하기&#x20;
+
+{% hint style="info" %}
+행사 등록 전, 등록할 [메타비티의 링크](../../undefined-5/undefined-1/undefined-1.md)를 복사해주세요
+{% endhint %}
+
+{% embed url="https://youtu.be/ZhN0Axb8PzY" %}
+
+1. 왼쪽 상단 <mark style="color:blue;">**+ 버튼**</mark>을 눌러주세요 ( 행사분류를 추가하는 작업입니다 )
+2. 행사명, 분류내용, 상세내용을 입력해주세요&#x20;
+3. 오른쪽 상단 <mark style="color:blue;">**+추가**</mark> 버튼을 눌러주세요 ( 행사를 등록하는 작업입니다 )
+4. 바로가기 제목, 링크를 입력해주세요&#x20;
+
+### 행사 수정하기
+
+1. 행사리스트의 옆 <mark style="color:blue;">**:메뉴**</mark>를 눌러주세요&#x20;
+2. 행사 정보를 변경해주세요&#x20;
+3. <mark style="color:blue;">**확인버튼**</mark>을 눌러주세요&#x20;
 
