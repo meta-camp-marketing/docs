@@ -8,7 +8,7 @@
   * [회원가입 및 로그인 안내](undefined/undefined.md)
   * [회원탈퇴 하기](undefined/undefined-2.md)
 * [📝 기능소개](undefined-1/README.md)
-  * [메뉴설명](there/undefined-2.md)
+  * [기본 메뉴설명](there/undefined-2.md)
   * [사용자 설정](undefined-1/undefined.md)
   * [네스트](undefined-1/undefined-1.md)
   * [개인저장소](undefined-1/undefined-2.md)
