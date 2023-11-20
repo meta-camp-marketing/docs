@@ -1,10 +1,20 @@
 # 행성 정보 설정
 
+<figure><img src="../../../../../.gitbook/assets/스크린샷 2023-11-20 오후 8.21.27.png" alt=""><figcaption></figcaption></figure>
+
 ## 행성 정보설정
 
 1. <mark style="color:blue;">**메뉴버튼**</mark>을 눌러주세요
 2. <mark style="color:blue;">**행성관리 버튼**</mark>을 눌러주세요
 3. 왼쪽 행성정보 탭을 눌러주세요
+
+{% hint style="info" %}
+위치정보를 적용할 경우, ESG 절감 데이터를 받아 보실 수 있습니다&#x20;
+{% endhint %}
+
+4. 행성의 밤낮 시간을 적용하여, 행성 내부 배경테마를 적용 할 수 있습니다
+
+<figure><img src="../../../../../.gitbook/assets/스크린샷-2023-11-20-오후-8.24.20.gif" alt=""><figcaption></figcaption></figure>
 
 ## 행성 유형(자유행성, 오픈행성, 멤버행성, 비밀행성)
 
