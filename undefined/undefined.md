@@ -96,6 +96,6 @@ layout:
 
 <figure><img src="../.gitbook/assets/IMG_1192 (1).PNG" alt=""><figcaption></figcaption></figure>
 
-1. 오른쪽 상단 환경설정 버튼을 눌러주세요
-2. 로그아웃을 눌러주세요
+1. 오른쪽 상단 <mark style="color:blue;">**환경설정 버튼**</mark>을 눌러주세요
+2. <mark style="color:blue;">**로그아웃**</mark>을 눌러주세요
 

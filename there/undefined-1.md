@@ -8,9 +8,9 @@ description: THERE 조작하는 방법 알려드립니다
 
 <figure><img src="../.gitbook/assets/스크린샷 2023-11-10 오전 11.59.29.png" alt=""><figcaption></figcaption></figure>
 
-이동키 1 : WASD키를 이용합니다&#x20;
+이동키 1 : WASD키를 이용&#x20;
 
-이동키 2 : 방향키를 이용합니다&#x20;
+이동키 2 : 방향키 이용 &#x20;
 
 카메라 각도 : 마우스 오른쪽 버튼 드래그
 

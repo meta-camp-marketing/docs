@@ -21,10 +21,10 @@ description: 회원 탈퇴하는 방법을 알려드립니다
 1. 행성 어디든 행성내부에 진입해주세요
 2. 오른쪽 상단 <mark style="color:blue;">**메뉴버튼**</mark>을 눌러주세요
 3. <mark style="color:blue;">**내정보**</mark>를 눌러주세요
-4.  3번째 탈퇴하기 버튼을 눌러주세요&#x20;
+4.  왼쪽 탭에서 <mark style="color:blue;">**탈퇴하기**</mark> 버튼을 눌러주세요&#x20;
 
     <figure><img src="../.gitbook/assets/IMG_1193.PNG" alt=""><figcaption></figcaption></figure>
-5. 탈퇴신청을 진행해 주세요&#x20;
+5. <mark style="color:blue;">**탈퇴신청**</mark>을 눌러주세요
 
 
 
