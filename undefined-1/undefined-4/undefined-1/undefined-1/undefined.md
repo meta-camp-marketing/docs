@@ -24,9 +24,15 @@ description: 행성 로고와 행성명, 외형을 변경 할 수 있습니다
 
 ## 2.행성명 바꾸기&#x20;
 
+{% hint style="info" %}
+행성명은 최대 16글자까지 적용됩니다&#x20;
+{% endhint %}
+
 1. 가운데 상단 <mark style="color:blue;">**수정**</mark> 버튼을 눌러주세요&#x20;
-2. <mark style="color:blue;">**=\\**</mark>행성명을 변경해주세요
-3. <mark style="color:blue;">**로고 파일**</mark>을 선택해주세요&#x20;
-4. <mark style="color:blue;">**저장 후 종료**</mark> 버튼을 선택해주세요&#x20;
+2. <mark style="color:blue;">**행성명**</mark>을 변경해주세요&#x20;
+3. <mark style="color:blue;">**저장 후 종료**</mark> 버튼을 선택해주세요&#x20;
 
 ## 3.행성 외형 디자인 바꾸기&#x20;
+
+1. 오른쪽 리스트에서 원하는 테마의 <mark style="color:blue;">**행성**</mark>을 눌러주세요&#x20;
+2. <mark style="color:blue;">**저장 후 종료**</mark> 버튼을 선택해주세요&#x20;
