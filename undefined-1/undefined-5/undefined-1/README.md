@@ -56,11 +56,28 @@ description: 메타비티 운영자 안내사항입니다
 
 **공지사항** 메타비티 내 공지사항을 등록하여 적용할 수 있습니다&#x20;
 
-<figure><img src="../../../.gitbook/assets/스크린샷 2023-11-23 오후 3.09.20.png" alt=""><figcaption><p>공 </p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/스크린샷 2023-11-23 오후 3.09.20.png" alt=""><figcaption><p>공지사항 적용 화면입니다</p></figcaption></figure>
 
-**공지사항** **링크** 메타비티 내 공지사항을 링크로 적용하여 화면에 적용할 수 있습니다&#x20;
+**공지사항** **링크** 메타비티 내 공지사항을 링크로 적용하여 화면에 적용할 수 있습니다  이 링크를 사용자들이 복사해서  웹에서나, 공유 시 사용할 수 있습니다&#x20;
+
+{% embed url="https://youtu.be/sPKcBrUS_rQ" %}
 
 **360이미지** 메타비티 내 배경 화면을 360이미지를 적용하여 테마를 바꿀 수 있습니다&#x20;
 
-**3D 오브제** 3D 파일을 화면에 적용하여 참여자에게 시연 할 수 있습니다&#x20;
+{% hint style="info" %}
+360이미지는 왼쪽 하단 로컬파일버튼을 사용하여 커스텀이 가능합니다
 
+360이미지 생성형AI를 이용해보세요&#x20;
+{% endhint %}
+
+{% embed url="https://youtu.be/-bMYfoIZK6M" %}
+
+**3D 오브제** 3D 파일을 화면에 적용하여 참여자에게 시연 할 수 있습니다
+
+{% hint style="info" %}
+3D오브제는 왼쪽 하단 로컬파일버튼을 사용하여 커스텀이 가능합니다
+
+3D오브제를 생성형AI를 이용해 만들어 적용해보세요 <mark style="color:blue;">**flb파일만 업로드 가능합니다**</mark>
+{% endhint %}
+
+{% embed url="https://youtu.be/vAG71PPbiXM" %}
