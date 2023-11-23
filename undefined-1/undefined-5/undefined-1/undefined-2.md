@@ -1,2 +1,21 @@
+---
+description: 메타비티 오픈 일정 전 메타비티를 수정 할 수 있습니다
+---
+
 # 메타비티 수정하기
+
+{% hint style="info" %}
+메타비티는 오픈 일정을 선택하기 전 수정이 가능합니다. 오픈 일정이 지난 후에는 수정이 불가합니다
+
+메타비티 내부의 강의내용 및 행사 내용 등도 메타비티 오픈 일정이 지난 후에는 수정이 불가합니다
+{% endhint %}
+
+<figure><img src="../../../.gitbook/assets/스크린샷 2023-11-23 오후 1.16.29.png" alt=""><figcaption></figcaption></figure>
+
+1. 수정하실 <mark style="color:blue;">**메타비티를 선택**</mark>합니다&#x20;
+2. 네번째 <mark style="color:blue;">**메타비티 대시보드 버튼**</mark>을 눌러주세요
+3. <mark style="color:blue;">**수정하실 항목을 수정**</mark>해주세요
+4. 오른쪽 하단 <mark style="color:blue;">**수정완료버튼**</mark>이 활성화 되면, 버튼을 눌러주세요&#x20;
+
+
 
