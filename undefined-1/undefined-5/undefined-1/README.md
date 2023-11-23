@@ -20,7 +20,7 @@ description: 메타비티 운영자 안내사항입니다
 
 ## 메타비티 진입 후, 운영용 메뉴설명
 
-<figure><img src="../../../.gitbook/assets/스크린샷-2023-11-23-오후-12.29.58.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/스크린샷-2023-11-23-오후-12.29.58.png" alt=""><figcaption><p><mark style="color:blue;"><strong>메타비티의 특성마다 기능이 다르기 때문에 메뉴 구성이 다를 수 있습니다</strong></mark></p></figcaption></figure>
 
 1. **나가기** 메타비티 나가기버튼입니다
 2. **큐시트** 메타비티에서 사용할 큐시트 작동 버튼입니다&#x20;
