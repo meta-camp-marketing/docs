@@ -32,3 +32,5 @@ description: THERE 설치기준에 대해 안내드립니다
 **디바이스**  iPhone 7이상, iPad 6세대 이상, GalaxyS8 이상
 
 **운영체제**  iOS 15(64bit only, Metal only) 이상 또는 Android 6.0 이상
+
+<figure><img src="../.gitbook/assets/QR.png" alt=""><figcaption></figcaption></figure>
