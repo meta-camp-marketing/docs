@@ -40,7 +40,7 @@ description: 메타비티 운영자 안내사항입니다
 
 **PDF 파일** 파일을 화면에 공유하여 설명할 수 있습니다&#x20;
 
-<figure><img src="../../../.gitbook/assets/스크린샷 2023-11-23 오후 3.03.57.png" alt=""><figcaption><p>PDF 공유화면 입니다 오른쪽 하단 컨트롤러를 사PDF 공유화면 입니다 오른쪽 하단 컨트롤러를 사용하실 수 있습니다하실수 PDF 공유화면 입니다 오른쪽 하단 컨트롤러를 사용하실 수 있습니다ㅡ   <strong>PDF 파일</strong> 파일을 화면에 공유하여 설명할 수 있습니다 </p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/스크린샷 2023-11-23 오후 3.03.57.png" alt=""><figcaption><p>PDF 공유화면 입니다 오른쪽 하단 컨트롤러를 사용하실 수 있습니다</p></figcaption></figure>
 
 **동영상링크** 유튜브나 비메오의 링크를 복사하여 공유하며 설명할 수 있습니다&#x20;
 
@@ -52,9 +52,11 @@ description: 메타비티 운영자 안내사항입니다
 
 **이미지파일** 이미지를 공유하여 설명할 수 있습니다&#x20;
 
-<figure><img src="../../../.gitbook/assets/스크린샷 2023-11-23 오후 2.55.53.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/스크린샷 2023-11-23 오후 2.55.53.png" alt=""><figcaption><p>이미지 공유화면 입니다 오른쪽 하단 컨트롤러를 사용하실 수 있습니다</p></figcaption></figure>
 
 **공지사항** 메타비티 내 공지사항을 등록하여 적용할 수 있습니다&#x20;
+
+<figure><img src="../../../.gitbook/assets/스크린샷 2023-11-23 오후 3.09.20.png" alt=""><figcaption><p>공 </p></figcaption></figure>
 
 **공지사항** **링크** 메타비티 내 공지사항을 링크로 적용하여 화면에 적용할 수 있습니다&#x20;
 
