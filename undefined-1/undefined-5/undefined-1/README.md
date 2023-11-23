@@ -4,6 +4,14 @@ description: 메타비티 운영자 안내사항입니다
 
 # 메타비티 운영안내
 
+
+
+{% hint style="info" %}
+<mark style="color:blue;">**메타비티의 특성마다 기능이 다르기 때문에 모든 메뉴가 구성되어 있지 않으니 각 항목을 확인 후,**</mark>&#x20;
+
+<mark style="color:blue;">**목적에 맞는 메타비티를 생성해주시면 됩니다**</mark>&#x20;
+{% endhint %}
+
 {% hint style="info" %}
 메타비티를 생성 후에 운영할 수 있는 화면설명입니다.
 
