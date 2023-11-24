@@ -11,7 +11,7 @@ description: THERE의 개인공간 네스트 입니다 소규모로 친구나 �
 
 ## 네스트 기능 사용하기
 
-<figure><img src="../.gitbook/assets/스크린샷-2023-11-10-오후-5.15.55.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/스크린샷-2023-11-10-오후-5.15.55 (1).png" alt=""><figcaption></figcaption></figure>
 
 1. **나가기**  네스트 공간을 나갈 때 사용합니다
 2. **큐시트** 개인의 큐시트를 지정 할 수 있습니다&#x20;
