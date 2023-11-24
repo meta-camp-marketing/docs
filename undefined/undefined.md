@@ -78,6 +78,10 @@ layout:
 
 ## 비밀번호 찾기
 
+
+
+<figure><img src="../.gitbook/assets/스크린샷 2023-11-24 오후 3.50.12 복사.png" alt=""><figcaption></figcaption></figure>
+
 {% hint style="info" %}
 비밀번호는 타인에게 절대 알려주지 마세요
 
