@@ -6,7 +6,7 @@ description: 동호회는 한가지 테마로 구성되어있습니다
 
 ## 동호회 메뉴 구성&#x20;
 
-<figure><img src="../../../../.gitbook/assets/스크린샷-2023-11-10-오후-5.15.55-(1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/스크린샷-2023-11-10-오후-5.15.55-(1) (1).png" alt=""><figcaption></figcaption></figure>
 
 1. **나가기** 메타비티 나가기버튼입니다
 2. **스냅샷** 내 환경과 플레이 화면을 촬영 할 때 사용 할 수 있습니다
