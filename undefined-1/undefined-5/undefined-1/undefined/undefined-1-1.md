@@ -1,20 +1,6 @@
 # 전시관 만들기
 
-
-
-{% hint style="info" %}
-<mark style="color:blue;">**메타비티의 특성마다 기능이 다르기 때문에 모든 메뉴가 구성되어 있지 않으니 각 항목을 확인 후,**</mark>&#x20;
-
-<mark style="color:blue;">**목적에 맞는 메타비티를 생성해주시면 됩니다**</mark>&#x20;
-{% endhint %}
-
-{% hint style="info" %}
-메타비티를 생성 후에 운영할 수 있는 화면설명입니다.
-
-메타비티를 먼저 생성해주세요 [메타비티 만들기](./)를 참고해주세요
-{% endhint %}
-
-## 메타비티 진입 후, 운영용 메뉴설명
+메타비티 진입 후, 운영용 메뉴설명
 
 <figure><img src="../../../../.gitbook/assets/스크린샷-2023-11-23-오후-12.29.58 (1).png" alt=""><figcaption><p><mark style="color:blue;"><strong>메타비티의 특성마다 기능이 다르기 때문에 메뉴 구성이 다를 수 있습니다</strong></mark></p></figcaption></figure>
 
