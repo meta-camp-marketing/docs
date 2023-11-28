@@ -26,9 +26,11 @@ VOD 강의실에서 동작 할 수 있는 기능은 다음과 같습니다
 8. **참여자** 참여자의 현황과 리스트 및 설정이 가능한 버튼입니다&#x20;
 9. **모니터** 송출할 내용의 모니터를 기준으로 확대와 판서기능이 가능한 버튼입니다
 
-{% embed url="https://youtu.be/lBcPEf-8wkE?feature=shared" %}
+
 
 ## VOD 강의 등록하기
+
+{% embed url="https://youtu.be/lBcPEf-8wkE?feature=shared" %}
 
 {% hint style="info" %}
 동영상강의 제목설정하기
