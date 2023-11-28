@@ -12,10 +12,10 @@ description: 메타비티 오픈 일정 전 메타비티를 수정 할 수 있�
 
 <figure><img src="../../../.gitbook/assets/스크린샷 2023-11-23 오후 1.16.29.png" alt=""><figcaption></figcaption></figure>
 
-1. 수정하실 <mark style="color:blue;">**메타비티를 선택**</mark>합니다&#x20;
-2. 네번째 <mark style="color:blue;">**메타비티 대시보드 버튼**</mark>을 눌러주세요
-3. <mark style="color:blue;">**수정하실 항목을 수정**</mark>해주세요
-4. 오른쪽 하단 <mark style="color:blue;">**수정완료버튼**</mark>이 활성화 되면, 버튼을 눌러주세요&#x20;
+1. 수정하실 **메타비티를 선택**합니다&#x20;
+2. 네번째 **메타비티 대시보드 버튼**을 눌러주세요
+3. **수정하실 항목을 수정**해주세요
+4. 오른쪽 하단 **수정완료버튼**이 활성화 되면, 버튼을 눌러주세요&#x20;
 
 
 

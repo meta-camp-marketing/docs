@@ -43,7 +43,6 @@
         * [회의실 만들기](undefined-1/undefined-5/undefined-1/undefined/undefined-3.md)
         * [동호회 만들기](undefined-1/undefined-5/undefined-1/undefined/undefined-4.md)
         * [상담실 만들기](undefined-1/undefined-5/undefined-1/undefined/undefined-5.md)
-      * [메타비티 설정 및 조회](undefined-1/undefined-5/undefined-1/undefined-1.md)
       * [메타비티 수정하기](undefined-1/undefined-5/undefined-1/undefined-2.md)
       * [메타비티 제거하기](undefined-1/undefined-5/undefined-1/undefined-3.md)
   * [LMS](undefined-1/lms/README.md)

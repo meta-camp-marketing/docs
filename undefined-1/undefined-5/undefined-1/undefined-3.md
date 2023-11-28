@@ -12,7 +12,7 @@ description: 메타비티를 제거하는 기능을 안내해드립니다
 
 <figure><img src="../../../.gitbook/assets/스크린샷 2023-11-23 오후 1.16.29.png" alt=""><figcaption></figcaption></figure>
 
-1. 제거 하실 <mark style="color:blue;">**메타비티를 선택**</mark>합니다&#x20;
-2. 다섯번째 <mark style="color:blue;">**메타비티 제거 버튼**</mark>을 눌러주세요
-3. <mark style="color:blue;">**확인**</mark> 버튼을 눌러주세요
+1. 제거 하실 **메타비티를 선택**합니다&#x20;
+2. 다섯번째 **메타비티 제거 버튼**을 눌러주세요
+3. **확인** 버튼을 눌러주세요
 

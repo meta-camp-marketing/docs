@@ -12,7 +12,7 @@ description: 각 행성내의 행사를 관리 할 수 있습니다
 ## 행사등록하기 및 수정하기&#x20;
 
 {% hint style="info" %}
-행사 등록 전, 등록할 [메타비티의 링크](../../undefined-5/undefined-1/undefined-1.md)를 복사해주세요
+행사 등록 전, 등록할 [메타비티의 링크](broken-reference)를 복사해주세요
 {% endhint %}
 
 {% embed url="https://youtu.be/ZhN0Axb8PzY" %}
