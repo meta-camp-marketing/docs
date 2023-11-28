@@ -4,7 +4,7 @@ description: 컨퍼런스는 5개의 테마로 구성되어 있습니다
 
 # 컨퍼런스 만들기
 
-## ㅇ 컨퍼런스 메뉴 안내
+## 실외 컨퍼런스 메뉴 안내
 
 <figure><img src="../../../../.gitbook/assets/스크린샷-2023-11-10-오후-5.15.55.png" alt=""><figcaption><p><mark style="color:blue;"><strong>메타비티의 특성마다 기능이 다르기 때문에 메뉴 구성이 다를 수 있습니다</strong></mark></p></figcaption></figure>
 
@@ -25,9 +25,9 @@ description: 컨퍼런스는 5개의 테마로 구성되어 있습니다
 15. **마이크** 해당 메타비티 내에서 소통 할 수 있는 음성용 on/off기능의 버튼입니다&#x20;
 16. **이펙트** 해당 메타비티에서 행사 효과를 줄수 있는 리스트를 보여주는 버튼입니다&#x20;
 
-## 소형컨퍼런스 메뉴안내&#x20;
+## 실내 컨퍼런스 메뉴안내&#x20;
 
-<figure><img src="../../../../.gitbook/assets/스크린샷-2023-11-23-오후-12.29.58 (1).png" alt=""><figcaption><p><mark style="color:blue;"><strong>메타비티의 특성마다 기능이 다르기 때문에 메뉴 구성이 다를 수 있습니다</strong></mark></p></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/스크린샷-2023-11-23-오후-12.29.58 (1).png" alt=""><figcaption></figcaption></figure>
 
 1. **나가기** 메타비티 나가기버튼입니다
 2. **큐시트** 메타비티에서 사용할 큐시트 작동 버튼입니다&#x20;
