@@ -12,5 +12,5 @@ description: 행성을 제거하는 방법을 안내해드립니다
 
 <figure><img src="../../../.gitbook/assets/스크린샷-2023-11-20-오후-10.27.49.png" alt=""><figcaption></figcaption></figure>
 
-1. 세번째 <mark style="color:blue;">**행성 파괴**</mark> 버튼을 눌러주세요
-2. <mark style="color:blue;">**확인**</mark> 버튼을 눌러주세요&#x20;
+1. 세번째 **행성 파괴** 버튼을 눌러주세요
+2. **확인** 버튼을 눌러주세요&#x20;
