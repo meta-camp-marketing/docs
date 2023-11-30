@@ -20,6 +20,10 @@ description: THERE 조작하는 방법 알려드립니다
 
 앉기 : X키
 
+##
+
+***
+
 ## Moblie l Tablet 조작하는 방법&#x20;
 
 <figure><img src="../.gitbook/assets/IMG_1280.png" alt=""><figcaption></figcaption></figure>

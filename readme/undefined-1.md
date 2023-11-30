@@ -1,19 +1,31 @@
 ---
-description: THERE 설치기준에 대해 안내드립니다
+description: THERE 설치기준과 방법에 대해 안내드립니다
 ---
 
 # 설치하기
 
+## 설치방법
+
+[https://there.space/](https://there.space/) 메인페이지 하단에서 디바이스에 맞는 THERE 프로그램을 다운로드 받습니다
+
 {% embed url="https://there.space/" %}
 
-[https://there.space/](https://there.space/) 메인페이지 하단에서 디바이스에 맞는 THERE 프로그램을 다운로드 받습니다.
+아래 QR코드를 통해  디바이스에 맞게 다운로드도 가능합니다&#x20;
+
+<figure><img src="../.gitbook/assets/QR.png" alt=""><figcaption></figcaption></figure>
+
+***
 
 ## 지원 프로그램
 
-* Window
-* MAC
-* iOS
-* Android
+* Window (PC)
+* MAC (PC)
+* iOS (Mobile)
+* Android (Mobile)
+
+
+
+***
 
 ## PC디바이스 권장사항
 
@@ -27,10 +39,12 @@ description: THERE 설치기준에 대해 안내드립니다
 
 **Storage**  6GB의 하드디스크 여유공간
 
+
+
+***
+
 ## 모바일 권장사항
 
 **디바이스**  iPhone 7이상, iPad 6세대 이상, GalaxyS8 이상
 
 **운영체제**  iOS 15(64bit only, Metal only) 이상 또는 Android 6.0 이상
-
-<figure><img src="../.gitbook/assets/QR.png" alt=""><figcaption></figcaption></figure>

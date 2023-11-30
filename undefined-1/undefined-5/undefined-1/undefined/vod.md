@@ -28,6 +28,8 @@ VOD 강의실에서 동작 할 수 있는 기능은 다음과 같습니다
 
 
 
+***
+
 ## VOD 강의 등록하기
 
 {% embed url="https://youtu.be/lBcPEf-8wkE?feature=shared" %}

@@ -43,8 +43,8 @@ layout:
 외국인 가입자는 본인 인증 단계에서 이메일인증만 가능합니다
 {% endhint %}
 
-* 스마트폰에서 <mark style="color:blue;">**해외발신문자 차단 서비스에 등록되어 있는 경우**</mark> 인증문자가 발송되지 않으니 차단을 해제해주세요
-* 메일에서 <mark style="color:blue;">**스팸 메일함을 확인해주세요**</mark> (인터넷 상황에 따라 늦게 도착하는 경우가 있습니다)
+* 스마트폰에서 **해외발신문자 차단 서비스에 등록되어 있는 경우** 인증문자가 발송되지 않으니 차단을 해제해주세요
+* 메일에서 **스팸 메일함을 확인해주세요** (인터넷 상황에 따라 늦게 도착하는 경우가 있습니다)
 
 ### 4.가입완료
 
@@ -52,7 +52,7 @@ layout:
 
 ***
 
-## 회원과 비회원의 차이점을 알아보세요
+## 회원과 비회원의 차이점
 
 <table><thead><tr><th width="89" align="center">구분</th><th width="112" align="center">행성가입</th><th width="147" align="center">메타비티 참여</th><th width="147" align="center">메타비티 생성</th><th align="center">네스트 사용</th><th align="center">개인 저장소</th></tr></thead><tbody><tr><td align="center">회원</td><td align="center">가능</td><td align="center"><p>공개, 비공개,</p><p>행성공개 가능</p></td><td align="center"><p>행성멤버일 때</p><p>동호회 가능</p></td><td align="center">가능</td><td align="center"><p>큐시트, 폴더</p><p>생성 가능</p></td></tr><tr><td align="center">비회원</td><td align="center">불가</td><td align="center">공개행성만 가능</td><td align="center">불가능</td><td align="center">가능</td><td align="center"><p>스냅샷만</p><p>저장 가능</p></td></tr></tbody></table>
 
@@ -85,6 +85,10 @@ layout:
 1. 이메일주소  : 인증번호를 이메일로 전송드립니다. 확인하여 비밀번호 변경을 진행해주세요 &#x20;
 2. 휴대폰번호 : 인증번호를 휴대폰 메세지로 전송드립니다. THERE는 해외 인증서비스를 사용하기 때문에 국제발신으로 발송됩니다.  확인하여 비밀번호 변경을 진행해주세요 &#x20;
 
+
+
+***
+
 ## 비밀번호 찾기
 
 <figure><img src="../.gitbook/assets/스크린샷 2023-11-24 오후 3.50.12 복사.png" alt=""><figcaption></figcaption></figure>
@@ -103,10 +107,12 @@ layout:
 
 
 
+***
+
 ## 로그아웃하기
 
 <figure><img src="../.gitbook/assets/IMG_1192 (1).PNG" alt=""><figcaption></figcaption></figure>
 
-1. 오른쪽 상단 <mark style="color:blue;">**환경설정 버튼**</mark>을 눌러주세요
-2. <mark style="color:blue;">**로그아웃**</mark>을 눌러주세요
+1. 오른쪽 상단 **환경설정 버튼**을 눌러주세요
+2. **로그아웃**을 눌러주세요
 

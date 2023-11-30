@@ -16,6 +16,10 @@
 
 <figure><img src="../../../../../.gitbook/assets/스크린샷-2023-11-20-오후-8.24.20.gif" alt=""><figcaption></figcaption></figure>
 
+##
+
+***
+
 ## 행성 유형설정 (자유행성, 오픈행성, 멤버행성, 비밀행성)
 
 <figure><img src="../../../../../.gitbook/assets/스크린샷 2023-11-20 오후 9.02.43.png" alt=""><figcaption></figcaption></figure>

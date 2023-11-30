@@ -9,6 +9,10 @@ description: THERE의 개인공간 네스트 입니다 소규모로 친구나 �
 1. 오른쪽 상단 **메뉴 버튼**을 눌러주세요
 2. 메뉴의 왼쪽 상단 **Nest 버튼**을 눌러주세요
 
+
+
+***
+
 ## 네스트 기능 사용하기
 
 <figure><img src="../.gitbook/assets/스크린샷-2023-11-10-오후-5.15.55 (1).png" alt=""><figcaption></figcaption></figure>
