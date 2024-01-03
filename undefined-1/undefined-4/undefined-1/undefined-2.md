@@ -4,7 +4,7 @@ description: 각 행성내의 행사를 관리 할 수 있습니다
 
 # 행사관리
 
-<figure><img src="../../../.gitbook/assets/스크린샷-2023-11-10-오후-6.15.27 (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/스크린샷-2023-11-10-오후-6.15.27 (3).png" alt=""><figcaption></figcaption></figure>
 
 1. 오른쪽 상단 **메뉴버튼**을 눌러주세요
 2. **행사 안내**버튼을 눌러주세요&#x20;
