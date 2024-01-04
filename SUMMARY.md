@@ -28,7 +28,7 @@
           * [행성 멤버관리](undefined-1/undefined-4/undefined-1/undefined-1/undefined-2/undefined-2.md)
       * [행사관리](undefined-1/undefined-4/undefined-1/undefined-2.md)
       * [행성 제거하기](undefined-1/undefined-4/undefined-1/undefined-4.md)
-  * [네스트](undefined-1/undefined-1-1.md)
+  * [아지트](undefined-1/undefined-1-1.md)
   * [개인저장소](undefined-1/undefined-2.md)
   * [큐시트](undefined-1/undefined-3.md)
   * [메타비티](undefined-1/undefined-5/README.md)
