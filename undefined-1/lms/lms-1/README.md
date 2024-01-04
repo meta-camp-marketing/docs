@@ -9,7 +9,9 @@ description: LMS 기능을 안내해드릴게요
 ## 강좌 및 강의 개설
 
 {% hint style="info" %}
-<mark style="color:red;">꼭 읽어주세요!!!! 강좌 및 강의 오픈일 이후 강좌 및 강의 수정이 불가합니다</mark>&#x20;
+<mark style="color:red;">꼭 읽어주세요!!!!</mark>&#x20;
+
+<mark style="color:red;">강좌 및 강의는 오픈일 이후 강좌 및 강의 수정이 불가합니다</mark>&#x20;
 {% endhint %}
 
 {% hint style="info" %}
@@ -29,16 +31,6 @@ VOD강의실과 컨퍼런스는 무한인원 접속이 가능하며, 기재되�
 실시간 강의 수용인원 초과 입장 불가, VOD 강의 수용인원 초과 입장가능, 행사 및 컨퍼런스 수용인원 초과  입장가능
 
 <figure><img src="../../../.gitbook/assets/스크린샷-2023-11-30-오전-11.11.50.png" alt=""><figcaption></figcaption></figure>
-
-##
-
-***
-
-## 강좌 신청받기&#x20;
-
-신청자를 받기 위해 강좌 신청받기 버튼을 이용하세요&#x20;
-
-<figure><img src="../../../.gitbook/assets/스크린샷 2023-11-30 오후 2.20.33 복사.png" alt=""><figcaption></figcaption></figure>
 
 ##
 
