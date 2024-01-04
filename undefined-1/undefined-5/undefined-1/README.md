@@ -1,33 +1,33 @@
 ---
-description: 메타비티 운영자 안내사항입니다
+description: 스페이스 운영자 안내사항입니다
 ---
 
-# 메타비티 운영안내
+# 스페이스 운영안내
 
-## <mark style="color:red;">메타비티 운영 주의사항</mark>&#x20;
+## <mark style="color:red;">스페이스 운영 주의사항</mark>&#x20;
 
-* <mark style="color:red;">호스트 권한이 있는 회원은 메타비티를 만들 수 있습니다.</mark>&#x20;
-* <mark style="color:red;">메타비티는 광장과 행성 광장에서 만들 수 있습니다.</mark>
-* <mark style="color:red;">메타비티는 참여인원과 행사기간을 입력해야 합니다.</mark>&#x20;
-* <mark style="color:red;">기간이 지나면 메타비티 기능 대부분을 실행할 수 없습니다.</mark>
-* <mark style="color:red;">메타비티는 참여인원수와 운영기간에 따른 운영비용이 발생합니다. 따라서, 정확한 인원수 및 운영기간설정이 필요합니다. 불필요한 인원설정과 장기간 설정의 경우 불필요한 크래딧을 사용하게 됩니다.</mark>&#x20;
-* <mark style="color:red;">메타비티 운영은 클라우드 서버 비용이 발생하므로 신중하게 설정해서 사용해주시기 바랍니다.</mark>
-* <mark style="color:red;">메타비티가 시작하기 전까지는 과금이 발생하지 않습니다.</mark>&#x20;
-* <mark style="color:red;">메타비티가 시작하게 되면보유한 크래딧이 차감되며, 환불은 되지 않습니다.</mark>&#x20;
-* <mark style="color:red;">메타비티 시작전에는 크래딧이 차감되었더라도 변동이 생기면 즉시 크래딧이 환불 됩니다.</mark>
+* <mark style="color:red;">호스트 권한이 있는 회원은 스페이스를 만들 수 있습니다.</mark>&#x20;
+* <mark style="color:red;">스페이스는 광장과 행성 광장에서 만들 수 있습니다.</mark>
+* <mark style="color:red;">스페이스는 참여인원과 행사기간을 입력해야 합니다.</mark>&#x20;
+* <mark style="color:red;">기간이 지나면 스페이스 기능 대부분을 실행할 수 없습니다.</mark>
+* <mark style="color:red;">스페이스는 참여인원수와 운영기간에 따른 운영비용이 발생합니다. 따라서, 정확한 인원수 및 운영기간설정이 필요합니다. 불필요한 인원설정과 장기간 설정의 경우 불필요한 크래딧을 사용하게 됩니다.</mark>&#x20;
+* <mark style="color:red;">스페이스 운영은 클라우드 서버 비용이 발생하므로 신중하게 설정해서 사용해주시기 바랍니다.</mark>
+* <mark style="color:red;">스페이스가 시작하기 전까지는 과금이 발생하지 않습니다.</mark>&#x20;
+* <mark style="color:red;">스페이스가 시작하게 되면보유한 크래딧이 차감되며, 환불은 되지 않습니다.</mark>&#x20;
+* <mark style="color:red;">스페이스 시작전에는 크래딧이 차감되었더라도 변동이 생기면 즉시 크래딧이 환불 됩니다.</mark>
 
-## 메타비티 운영용 메뉴설명
+## 스페이스 운영용 메뉴설명
 
 {% hint style="info" %}
-<mark style="color:blue;">**메타비티의 특성마다 기능이 다르기 때문에  메뉴가 전부 구성되어 있지 않으니 각 항목을 확인 후,**</mark>&#x20;
+<mark style="color:blue;">**스페이스의 특성마다 기능이 다르기 때문에  메뉴가 전부 구성되어 있지 않으니 각 항목을 확인 후,**</mark>&#x20;
 
-<mark style="color:blue;">**목적에 맞는 메타비티를 생성해주시면 됩니다**</mark>&#x20;
+<mark style="color:blue;">**목적에 맞는 스페이스를 생성해주시면 됩니다**</mark>&#x20;
 {% endhint %}
 
 {% hint style="info" %}
-메타비티를 생성 후에 운영할 수 있는 화면설명입니다.
+스페이스를 생성 후에 운영할 수 있는 화면설명입니다.
 
-메타비티를 먼저 생성해주세요 [메타비티 만들기](undefined/)를 참고해주세요
+스페이스를 먼저 생성해주세요 [스페이스 만들기](undefined/)를 참고해주세요
 {% endhint %}
 
 <figure><img src="../../../.gitbook/assets/스크린샷-2023-11-10-오후-5.15.55.png" alt=""><figcaption><p><mark style="color:blue;"><strong>메타비티의 특성마다 기능이 다르기 때문에 메뉴 구성이 다를 수 있습니다</strong></mark></p></figcaption></figure>
