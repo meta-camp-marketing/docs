@@ -24,7 +24,7 @@
 
 <div align="left">
 
-<figure><img src="../.gitbook/assets/메뉴얼용2.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/메뉴얼용2 (1).png" alt=""><figcaption></figcaption></figure>
 
 </div>
 
