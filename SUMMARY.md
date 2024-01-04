@@ -21,7 +21,7 @@
         * [행성 외부 디자인 관리](undefined-1/undefined-4/undefined-1/undefined-1/undefined.md)
         * [행성 내부 디자인 관리](undefined-1/undefined-4/undefined-1/undefined-1/undefined-1/README.md)
           * [행성 내부 꾸미기](undefined-1/undefined-4/undefined-1/undefined-1/undefined-1/undefined.md)
-          * [행성 내 배너 만들기](undefined-1/undefined-4/undefined-1/undefined-1/undefined-1/undefined-1.md)
+          * [행성 내부 배너 만들기](undefined-1/undefined-4/undefined-1/undefined-1/undefined-1/undefined-1.md)
         * [행성 시스템설정](undefined-1/undefined-4/undefined-1/undefined-1/undefined-2/README.md)
           * [행성 정보 설정](undefined-1/undefined-4/undefined-1/undefined-1/undefined-2/undefined-1.md)
           * [행성 가입 관리](undefined-1/undefined-4/undefined-1/undefined-1/undefined-2/undefined.md)
