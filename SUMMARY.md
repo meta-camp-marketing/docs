@@ -28,7 +28,7 @@
           * [행성 멤버관리](service/planet/manage/planet-setting/system/member.md)
       * [행사관리](service/planet/manage/event.md)
       * [행성 제거하기](service/planet/manage/planet-delete.md)
-  * [아지트](service/agit.md)
+  * [네스트](service/agit.md)
   * [마이 클라우드](service/mycloud.md)
   * [큐시트](service/cuesheet.md)
   * [스페이스](service/space/README.md)
