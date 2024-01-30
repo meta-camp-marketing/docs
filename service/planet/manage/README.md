@@ -6,7 +6,9 @@ description: 행성 운영자를 위한 안내입니다
 
 ## 행성 운영 방법
 
-<figure><img src="../../../.gitbook/assets/행성 방문.png" alt=""><figcaption></figcaption></figure>
+
+
+<figure><img src="../../../.gitbook/assets/스크린샷 2024-01-30 오전 10.58.42.png" alt=""><figcaption></figcaption></figure>
 
 1. 행성이 포함 되어있는 행성계를  눌러주세요 ( 메타버시티 : 학교 / 오아시스 : 기업 )
 2. 행성계입장 버튼을 눌러주세요&#x20;

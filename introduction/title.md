@@ -45,7 +45,7 @@ THERE는 각각의 기관을 행성으로 구분합니다
 **행성과 메타비티의 가장 큰 차이점은 참여인원수와 운영 기간의 제한 유무입니다**
 {% endhint %}
 
-<figure><img src="../.gitbook/assets/space.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/스크린샷 2024-01-30 오전 10.58.42.png" alt=""><figcaption></figcaption></figure>
 
 * 행성과 메타비티의 차이점 행성은 3D 공간 기반의 인터넷 서비스입니다
 * 행성은 가상공간에서 커뮤니케이션 할 수 있는 커뮤니티입니다
