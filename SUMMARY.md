@@ -60,5 +60,5 @@
         * [강의 설정](service/lms/lms-manage/setting/class-set2.md)
       * [강좌, 강의 수정하기](service/lms/lms-manage/lms-modify.md)
       * [강의, 강좌 제거하기](service/lms/lms-manage/lms-delete.md)
-* [⚙ 환경설정](setting.md)
-* [🙋♀ FAQ](faq.md)
+* [⚙️ 환경설정](setting.md)
+* [🙋‍♀️ FAQ](faq.md)
