@@ -30,6 +30,7 @@
       * [행성 제거하기](service/planet/manage/planet-delete.md)
   * [채팅](service/undefined.md)
   * [네스트](service/agit.md)
+  * [미션](service/mission.md)
   * [마이 클라우드](service/mycloud.md)
   * [큐시트](service/cuesheet.md)
   * [스페이스](service/space/README.md)
