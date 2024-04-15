@@ -31,3 +31,27 @@ description: 행성 가입 멤버와 행성 운영자를 설정할 수 있습니
 
 <table><thead><tr><th width="126">항목</th><th width="100">행성관리자</th><th width="145">보조관리자</th><th>오퍼레이터</th><th>일반멤버</th></tr></thead><tbody><tr><td>권한</td><td>전체관리가능</td><td>행성관리, 행성꾸미기 <strong>불가</strong></td><td>행성관리, 메타비티 권한 편집, 가입설정, 히스토리, 행성꾸미기 <strong>불가</strong></td><td><strong>전체 불가</strong></td></tr><tr><td>설정자</td><td>메타캠프</td><td>행성관리자</td><td>행성관리자</td><td>행성관리자</td></tr><tr><td><p>메타비티</p><p>생성</p></td><td>유료가능<br>무료가능</td><td><p>유료가능</p><p>무료가능</p><p>설정기능 가능</p></td><td>유료<strong>불가</strong></td><td><p>유료<strong>불가</strong></p><p>무료가능</p></td></tr></tbody></table>
 
+
+
+
+
+## 행성 내 호칭 등록하기&#x20;
+
+메뉴 > 행성관리 버튼을 눌러주세요&#x20;
+
+<figure><img src="../../../../../.gitbook/assets/행성관리.png" alt=""><figcaption></figcaption></figure>
+
+{% hint style="info" %}
+호칭설정은 오른쪽 상단에서 **호칭적용을 on / off 가 가능**합니다&#x20;
+{% endhint %}
+
+<figure><img src="../../../../../.gitbook/assets/스크린샷 2024-04-16 오전 12.00.10.png" alt=""><figcaption></figcaption></figure>
+
+1. 행성관리 페이지의 **왼쪽 네번째 탭 호칭편집**을 눌러주세요&#x20;
+2. **+버튼을 눌러 호칭을 추가**해주세요 &#x20;
+3. 추가한 **호칭 오른쪽 메뉴 버튼을 누르면 호칭을 수정, 삭제**할 수 있습니다
+4. 행성멤버 탭으로 이동하여 각 멤버에게 호칭을 부여할 수 있습니다
+
+
+
+<figure><img src="../../../../../.gitbook/assets/스크린샷 2024-04-16 오전 12.00.22.png" alt=""><figcaption></figcaption></figure>
