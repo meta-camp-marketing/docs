@@ -16,15 +16,14 @@ description: 회원 탈퇴하는 방법을 알려드립니다
 삭제 된 계정은 복구되지 않으니 신중하게 결정해주세요&#x20;
 {% endhint %}
 
-<figure><img src="../.gitbook/assets/IMG_1194.PNG" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/내정보.png" alt=""><figcaption></figcaption></figure>
 
 1. 행성 어디든 행성내부에 진입해주세요
-2. 오른쪽 상단 **메뉴버튼**을 눌러주세요
-3. **내정보**를 눌러주세요
-4.  왼쪽 탭에서 **탈퇴하기** 버튼을 눌러주세요&#x20;
-
-    <figure><img src="../.gitbook/assets/IMG_1193.PNG" alt=""><figcaption></figcaption></figure>
-5. **탈퇴신청**을 눌러주세요
+2. 오른쪽 상단 **아바타 아이콘이나 멀티페르소나 버튼** 을 눌러주세요
+3. **계정관리 버튼**을 눌러주세요
+4. **하단 탈퇴하기 버튼**을 눌러주세요&#x20;
+5. **비밀번호를 입력**해주세요&#x20;
+6. **탈퇴신청이 완료**되었습니다&#x20;
 
 
 
